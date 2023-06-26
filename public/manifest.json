@@ -1,7 +1,7 @@
 {
-  "name": "SushiSwap",
-  "description": "Be a DeFi Chef with Sushi. Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform",
-  "short_name": "SushiSwap",
+  "name": "ChinolaSwap",
+  "description": "Be a On Board Next Big DeFi with Chinola (CHNT). Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform",
+  "short_name": "ChinolaSwap",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#0D0415",
